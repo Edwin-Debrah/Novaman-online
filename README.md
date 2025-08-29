@@ -13,8 +13,6 @@ Insights and recommendations are provided on the following key areas:
 
 The tables and pivot tables used for the analysis [link].
 
-The table that records every cleaning process of the dataset [link].
-
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
 
 
